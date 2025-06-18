@@ -1,6 +1,6 @@
 # Privacy Policy for Youcare Charity
 
-Last Updated: [Current Date]
+Last Updated: March 19, 2024
 
 ## Introduction
 Welcome to Youcare Charity. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you use our app and tell you about your privacy rights.
@@ -33,7 +33,7 @@ You have the right to:
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [Your Support Email]
+- Email: youcarechennalode@gmail.com
 - Website: https://irshadpm.github.io/Youcare-Charity
 
 ## Changes to This Privacy Policy

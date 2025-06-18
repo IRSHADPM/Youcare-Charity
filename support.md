@@ -2,18 +2,18 @@
 
 ## Contact Us
 For any support or inquiries, please contact us at:
-- Email: [Your Support Email]
+- Email: youcarechennalode@gmail.com
 - Website: https://irshadpm.github.io/Youcare-Charity
 - Response Time: Within 24-48 hours
 
 ## Frequently Asked Questions
 
 ### Account Related
-**Q: How do I create an account?**
-A: Download the app and follow the registration process. You'll need to provide your email and create a password.
+**Q: How do I become a member?**
+A: To become a member of Youcare Charity, please send an email to youcarechennalode@gmail.com. Our charity secretary will review your request and create an account for you. Please include your full name and contact information in your email.
 
 **Q: How do I reset my password?**
-A: Click on "Forgot Password" on the login screen and follow the instructions sent to your email.
+A: To reset your password, please send an email to youcarechennalode@gmail.com with your request. Our support team will assist you with the password reset process. Please include your registered email address in your request.
 
 ### App Features
 **Q: How do I update my profile?**
@@ -28,10 +28,10 @@ A: Please try the following:
 1. Close and reopen the app
 2. Check your internet connection
 3. Update to the latest version
-4. If the issue persists, contact our support team
+4. If the issue persists, contact our support team at youcarechennalode@gmail.com
 
 **Q: How do I report a bug?**
-A: Please email us with:
+A: Please email us at youcarechennalode@gmail.com with:
 - Description of the issue
 - Steps to reproduce
 - Screenshots if possible
@@ -47,7 +47,7 @@ A: Please email us with:
 ### Login Issues
 - Check your internet connection
 - Verify your email and password
-- Use the "Forgot Password" feature if needed
+- Contact our support team at youcarechennalode@gmail.com if you need assistance
 
 ### Photo Upload Problems
 - Check your internet connection
@@ -55,4 +55,4 @@ A: Please email us with:
 - Try uploading a smaller image
 
 ## Feedback
-We value your feedback! Please email us with your suggestions for improving the app. 
+We value your feedback! Please email us at youcarechennalode@gmail.com with your suggestions for improving the app. 
